@@ -1,6 +1,0 @@
-
-
-ai_generic_operation_target_scorer  = {
-	targets = {
-	}
-}

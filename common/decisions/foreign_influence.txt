@@ -1,3 +1,0 @@
-foreign_influence = {
-}
-

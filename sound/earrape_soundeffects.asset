@@ -1,8 +1,0 @@
-soundeffect = {
-	name = "earrape_sound_effect"
-	sounds = {
-		sound = 
-			earrape_sound_effect
-	}
-	volume = 3
-}
