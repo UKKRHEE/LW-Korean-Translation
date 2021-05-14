@@ -1,0 +1,41 @@
+#	Example:
+#
+#	example_trigger = {
+	#		tag = GER
+	#		is_ai = no
+	#	}
+#
+#
+#	In a script file:
+#
+#	trigger = {
+	#		exampel_trigger = yes
+	#	}
+#
+#	THIS FILE IS FOR TRIGGERS SPECIFICALLY FOR THE GER TAG
+JAP_or_friend_controls_big_part_of_CHI_or_peace = {
+	OR = {
+		NOT = { has_war_with = CHI }
+		any_country = {
+			OR = {
+				is_in_faction_with = JAP
+				tag = JAP
+				is_puppet_of = JAP
+			}
+			controls_state = 632
+			controls_state = 635
+			controls_state = 295
+			controls_state = 633
+			controls_state = 454
+			controls_state = 452
+			controls_state = 634
+			controls_state = 534
+			controls_state = 536
+			controls_state = 535
+			controls_state = 532
+			controls_state = 538
+			controls_state = 521
+		}
+	}
+}
+
