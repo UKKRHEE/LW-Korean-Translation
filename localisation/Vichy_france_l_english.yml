@@ -7,6 +7,7 @@
 
 ##Vichy France
 ## Copy of france text to match cosmetic tags so vichy will have correct ideas
+#논플레이어블 국가-번역할 필요 없음
  EFR_fascism:1 "Vichy France"
  EFR_fascism_DEF:1 "The French State"
  EFR_democratic:0 "French Republic"
