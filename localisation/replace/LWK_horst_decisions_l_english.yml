@@ -1,7 +1,7 @@
 ﻿l_english:
- SOV_prepare_finland:0 "Preparing the Liberation of Finland"
- SOV_move_capital_kazan:0 "Move Capital to Kazan"
- SOV_move_capital_stalingrad:0 "Move Capital to Stalingrad"
- SOV_move_capital_leningrad:0 "Move Capital to Leningrad"
- SOV_move_capital_moscow:0 "Move Capital to Moscow"
- commonwealth_naval_sharing:0 "Commonwealth Research"
+ SOV_prepare_finland:0 "핀란드 해방 준비"
+ SOV_move_capital_kazan:0 "카잔으로 수도 이동"
+ SOV_move_capital_stalingrad:0 "스탈린그라드로 수도 이전"
+ SOV_move_capital_leningrad:0 "레닌그라드로 수도 이전"
+ SOV_move_capital_moscow:0 "모스크바로 수도 이전"
+ commonwealth_naval_sharing:0 "영연방 연구"
