@@ -8,5 +8,5 @@ dependencies={
 	"LW"
 }
 supported_version="1.10.*"
-path="mod/LW-Korean-Translation"
+path="C:/Users/webtoonguide/Documents/Paradox Interactive/Hearts of Iron IV/mod/LW-Korean-Translation"
 remote_file_id="2486709317"
